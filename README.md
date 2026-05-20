@@ -67,8 +67,8 @@ ai-engineering-lab/
 
 ## 💡 Learning Path
 
-1. Start with **Project 01** (RAG) to understand the basics of embeddings and document retrieval.  
-2. Then try **Project 02** (Validator) to learn about structured outputs.  
+1. Start with **Project(RAG)** to understand the basics of embeddings and document retrieval.  
+2. Then try **Project(Validator)** to learn about structured outputs.  
 3. Work through them in order — each one builds on concepts from the previous.
 
 ---
